@@ -1,6 +1,6 @@
 # Hello, I'm Ei Mon Soe! 
 
-### 📊 Data Scientist for Sustainability 
+### 📊 Data Analyst for Sustainability 
 * 🎓 **Statistics & Data Science Senior** at Parami University.
 * 🌿 **Environmental Researcher:** Currently investigating single-use plastic consumption and its contribution to climate change in Myanmar.
 * 🏛️ **Teaching Assistant:** Supporting coursework in public policy, governance, and human rights.
