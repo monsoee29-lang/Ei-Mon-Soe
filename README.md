@@ -22,12 +22,6 @@
 
 ---
 
-### 📈 Statistics & Impact
-![Ei Mon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monsoee29-lang&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monsoee29-lang&layout=compact&theme=nord)
-
----
-
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ei-mon-soe-6aa022257/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monsoee29@gmail.com)
