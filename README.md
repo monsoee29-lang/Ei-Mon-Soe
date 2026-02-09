@@ -23,8 +23,8 @@
 ---
 
 ### 📈 Statistics & Impact
-![Ei Mon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EiMonSoe&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EiMonSoe&layout=compact&theme=nord)
+![Ei Mon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monsoee29-lang&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monsoee29-lang&layout=compact&theme=nord)
 
 ---
 
